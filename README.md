@@ -11,3 +11,5 @@ May be works fine for iPhone5 & 6.<BR>
 Please test for iPhone5 & 6.<BR>
 <BR>
 Thanks for astares & Thomas Helzle.<BR>
+<BR>
+Sorry, my English is not good.
