@@ -10,6 +10,6 @@ I resize to 568x320px for my iPhone6Plus.<BR>
 May be works fine for iPhone5 & 6.<BR>
 Please test for iPhone5 & 6.<BR>
 <BR>
-Thanks for astares & Thomas Helzle.<BR>
+Thanks for astartes & Thomas Helzle.<BR>
 <BR>
 Sorry, my English is not good.
